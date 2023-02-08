@@ -1,0 +1,15 @@
+Line 90: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 105: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 271: Class MSComctlLib.ListView of control ListView3 was not a loaded control class.
+Line 343: Class MSComCtl2.DTPicker of control dtpTransDate was not a loaded control class.
+Line 405: Class MSComctlLib.ListView of control ListView2 was not a loaded control class.
+Line 588: Class MSComctlLib.ListView of control lvwCrAccounts was not a loaded control class.
+Line 636: Class MSComCtl2.DTPicker of control dtpDrTransDate was not a loaded control class.
+Line 663: Class MSComctlLib.ListView of control lvwDrAccounts was not a loaded control class.
+Line 932: Class MSComctlLib.ListView of control lvwCredits was not a loaded control class.
+Line 978: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 1042: Class MSComctlLib.ListView of control lvwDebits was not a loaded control class.
+Line 1088: Class MSComCtl2.DTPicker of control dtpCrTransDate was not a loaded control class.
+Line 1562: Class MSComCtl2.DTPicker of control dtpStatDate was not a loaded control class.
+Line 1575: Class MSComCtl2.DTPicker of control dtpStartDate was not a loaded control class.
+Line 1589: Class MSComCtl2.DTPicker of control dtpFinishDate was not a loaded control class.
